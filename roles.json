@@ -1,0 +1,25 @@
+{
+  "roles": {
+    "Кузнец-лучник": {
+      "capacity": 2,
+      "taken": 0
+    },
+    "Мастер": {
+      "capacity": 2,
+      "taken": 0
+    },
+    "Повар": {
+      "capacity": 1,
+      "taken": 0
+    },
+    "Охотник": {
+      "capacity": 1,
+      "taken": 0
+    },
+    "Работяга": {
+      "capacity": 2,
+      "taken": 0
+    }
+  },
+  "players": []
+}
