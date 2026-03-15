@@ -118,6 +118,6 @@ RULES_TEXT = (
 
     "🛠️ <b>Техническая информация</b>\n"
     "🔹 Версия Minecraft: <b>1.20.1 Forge</b>\n"
-    "🔹 Актуальная сборка: <a href='https://disk.yandex.ru/d/_iGmvyYmZxPPFA'>Disk.yandex</a>\n"
+    "🔹 Актуальная сборка: <a href='https://disk.yandex.ru/d/_iGmvyYmZxPPFA'>Disk.yandex.link</a>\n"
     "🔹 IP сервера: <b>jesterrp.cringe.team</b>"
 )
